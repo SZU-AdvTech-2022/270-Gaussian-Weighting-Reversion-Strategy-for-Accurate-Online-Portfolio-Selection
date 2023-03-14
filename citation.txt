@@ -1,0 +1,9 @@
+@article{REPO-271,
+    author = "Cai, Xia and Ye, Zekun",
+    journal = "IEEE Transactions on Signal Processing",
+    number = "21",
+    pages = "5558-5570",
+    title = "{Gaussian Weighting Reversion Strategy for Accurate Online Portfolio Selection}",
+    volume = "67",
+    year = "2019"
+}
